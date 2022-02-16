@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/redux-toolkit-tut/static/css/main.118827c8.css",
+    "main.js": "/redux-toolkit-tut/static/js/main.308ef6b0.js",
+    "static/media/user.png": "/redux-toolkit-tut/static/media/user.109eb92014ac0b55efdf.png",
+    "index.html": "/redux-toolkit-tut/index.html",
+    "main.118827c8.css.map": "/redux-toolkit-tut/static/css/main.118827c8.css.map",
+    "main.308ef6b0.js.map": "/redux-toolkit-tut/static/js/main.308ef6b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.118827c8.css",
+    "static/js/main.308ef6b0.js"
+  ]
+}
