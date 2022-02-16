@@ -1,7 +1,7 @@
 {
   "name": "redux-toolkit-tut",
   "version": "0.1.0",
-  "homepage": "https://Leefo.github.io/redux-toolkit-tut",
+  "homepage": "https://Leeefo.github.io/redux-toolkit-tut",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.2",
